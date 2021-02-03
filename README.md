@@ -11,4 +11,4 @@ Im 15 years old and im a Starter Programmer :D
 
 My Website: <a href="https://www.mrpeleg.xyz" target="_blank">mrpeleg.xyz</a>
 
-Have a good day ❤️
+Have a good day ❤️.
