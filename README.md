@@ -1,5 +1,5 @@
-Hey, my name is Peleg
-Im 15 years old and im a Starter Programmer :D
+<h1>Hey, my name is Peleg
+Im 15 years old and im a Starter Programmer :D</h1>
 
 > JS - Web + DJS
 
