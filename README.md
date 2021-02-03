@@ -1,5 +1,5 @@
 <h1>Hey, my name is Peleg
-Im 15 years old and im a Starter Programmer</h1>
+I'm 15 years old and I'm a Starter Programmer</h1>
 
 > JS - Web + DJS
 
